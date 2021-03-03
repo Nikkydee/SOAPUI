@@ -44,6 +44,28 @@ You c an see the result
 
 Then you can go ahead and create test suite in a situation , you want to have different comination
 
-creating new test suit: Go to project>create new test suite
+creating new test suite: Go to project>create new test suite
+then create new testcase 'Add'
+
+![image](https://user-images.githubusercontent.com/43099966/109780906-b8aea280-7c07-11eb-84f8-a989208784f4.png)
+There three property one  test step for functional, load / performance and security
+
+![image](https://user-images.githubusercontent.com/43099966/109781061-e1369c80-7c07-11eb-950d-0291f84561c5.png)
+
+Go ahead and add teststp >soap request>Add
+
+![image](https://user-images.githubusercontent.com/43099966/109781987-af720580-7c08-11eb-87b0-516ee0133229.png)
+
+Observe the Add request xml request for call request and response request
+
+![image](https://user-images.githubusercontent.com/43099966/109782471-3aeb9680-7c09-11eb-83ff-d86347eea7b0.png)
+
+Observe the Add request raw request for call request and response request
+
+![image](https://user-images.githubusercontent.com/43099966/109782800-93229880-7c09-11eb-960a-542f72d66b5a.png)
+
+
+
+
 
 
