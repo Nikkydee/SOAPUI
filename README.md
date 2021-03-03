@@ -1,5 +1,5 @@
 # SOAPUI
-1,. Download OSAPUI Open source
+1,. Download SOAPUI Open source
 
 2. Go to create project>New rest project 
 3. Enter the Sample rest url: http://petstore.swagger.io/v2/swagger.json
@@ -63,6 +63,36 @@ Observe the Add request xml request for call request and response request
 Observe the Add request raw request for call request and response request
 
 ![image](https://user-images.githubusercontent.com/43099966/109782800-93229880-7c09-11eb-960a-542f72d66b5a.png)
+
+# Assertions
+
+Assertion are checkpoint or validation point to confirm the state of something
+'The following are the assertion availaible in open source
+Property Content
+Compliance Status Standard
+Script
+SLA
+JMS
+Security
+ In this study , these are the assertions we will take a look at
+ 
+ Contains Assertion
+ 
+ step1:To add assertion click on assertion menu 
+ 
+ ![image](https://user-images.githubusercontent.com/43099966/109783834-b6017c80-7c0a-11eb-9482-28b33a10559d.png)
+ 
+ step2:Select the Assertion Category.
+Select the Assertion Type.
+Click 'Add'
+
+![image](https://user-images.githubusercontent.com/43099966/109784270-30ca9780-7c0b-11eb-9828-891ac2ec5115.png)
+
+
+Not contains Assertion
+X Path Match Assertion.
+Scripting Assertion
+X Query Match Assertion
 
 
 
