@@ -97,6 +97,8 @@ You can assert or  validate if the string '47' exist in the response.
 
 Not contains Assertion
 X Path Match Assertion.
+![image](https://user-images.githubusercontent.com/43099966/109797358-a6d5fb00-7c19-11eb-9eb4-83a17ff98dce.png)
+And click on save
 Scripting Assertion
 X Query Match Assertion
 
