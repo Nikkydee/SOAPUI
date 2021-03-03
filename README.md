@@ -88,6 +88,12 @@ Click 'Add'
 
 ![image](https://user-images.githubusercontent.com/43099966/109784270-30ca9780-7c0b-11eb-9828-891ac2ec5115.png)
 
+You can assert or  validate if the string '46' exist in the response.
+
+You can assert or  validate if the string '47' exist in the response.
+
+![image](https://user-images.githubusercontent.com/43099966/109784833-c49c6380-7c0b-11eb-8577-007a51642713.png)
+
 
 Not contains Assertion
 X Path Match Assertion.
